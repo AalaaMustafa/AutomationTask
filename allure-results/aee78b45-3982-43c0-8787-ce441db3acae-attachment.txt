@@ -1,0 +1,9 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 2] test cases in the current suite
+Test Method:		[Tests.RegisterationTest.NavigatetoWebSite]
+################################################################################################################################################
+[ReportManager] Target URL: [http://automationpractice.com/index.php] @21-01-2022 20:48:44.0573 PM
+[ReportManager] An Exception Occured with this Message: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "driver" is null. @21-01-2022 20:48:44.0579 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - java.lang.NullPointerException] @21-01-2022 20:48:44.0600 PM
+[ReportManager] Browser Action [NavigateToURL] failed. With the following test data [http://automationpractice.com/index.php]. @21-01-2022 20:48:44.0775 PM
