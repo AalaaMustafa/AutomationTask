@@ -7,10 +7,10 @@ Detected SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
 Starting Execution:	[1 out of 2] test cases in the current suite
 Test Method:		[Tests.RegisterationTest.NavigatetoWebSite]
 ################################################################################################################################################
-[ReportManager] Target URL: [http://automationpractice.com/index.php] @21-01-2022 20:48:44.0573 PM
-[ReportManager] An Exception Occured with this Message: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "driver" is null. @21-01-2022 20:48:44.0579 PM
-[ReportManager] Successfully created attachment [Exception Stack Trace - java.lang.NullPointerException] @21-01-2022 20:48:44.0600 PM
-[ReportManager] Browser Action [NavigateToURL] failed. With the following test data [http://automationpractice.com/index.php]. @21-01-2022 20:48:44.0775 PM
+[ReportManager] Target URL: [http://automationpractice.com/index.php] @26-01-2022 23:38:01.0046 PM
+[ReportManager] An Exception Occured with this Message: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "driver" is null. @26-01-2022 23:38:01.0081 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - java.lang.NullPointerException] @26-01-2022 23:38:01.0120 PM
+[ReportManager] Browser Action [NavigateToURL] failed. With the following test data [http://automationpractice.com/index.php]. @26-01-2022 23:38:01.0186 PM
 
 
 ################################################################################################################################################
@@ -21,7 +21,7 @@ Test Method:		[Tests.RegisterationTest.FillData]
 ################################################################################################################################################
 Test Closure Activities
 ################################################################################################################################################
-[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @21-01-2022 20:48:49.0365 PM
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @26-01-2022 23:38:03.0796 PM
 
 ################################################################################################################################################
 This test run was powered by SHAFT Engine Version: [SHAFT Engine v5.3.20210519]

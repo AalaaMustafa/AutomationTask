@@ -35,7 +35,7 @@
 <a href="#"><span class="badge badge-primary">Extent Reports - Powered by SHAFT_Engine</span></a>
 </li>
 <li class="m-r-10">
-<a href="#"><span class="badge badge-primary">Jan 21, 2022 08:48:24 PM</span></a>
+<a href="#"><span class="badge badge-primary">Jan 26, 2022 11:37:54 PM</span></a>
 </li>
 </ul>
 </div>
@@ -66,13 +66,13 @@
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Started</p>
-<h3>Jan 21, 2022 08:48:24 PM</h3>
+<h3>Jan 26, 2022 11:37:54 PM</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Ended</p>
-<h3>Jan 21, 2022 08:48:49 PM</h3>
+<h3>Jan 26, 2022 11:38:03 PM</h3>
 </div></div>
 </div>
 <div class="col-md-3">
@@ -142,7 +142,7 @@
 </div></div>
 <script>
 var timeline = {
-"Tests.RegisterationTest.NavigatetoWebSite":0.264,"Tests.RegisterationTest.FillData":0.009
+"Tests.RegisterationTest.NavigatetoWebSite":0.251,"Tests.RegisterationTest.FillData":0.004
 };
 </script>
 <div class="row">
@@ -200,7 +200,7 @@ infoEvents: 2
           <div class="test-detail">
             <p class="name">Tests.RegisterationTest.NavigatetoWebSite</p>
             <p class="text-sm">
-              <span>8:48:44 PM</span> / <span>00:00:00:264</span>
+              <span>11:38:01 PM</span> / <span>00:00:00:251</span>
               <span class="badge fail-bg log float-right">Fail</span>
             </p>
           </div>
@@ -209,9 +209,9 @@ infoEvents: 2
 <div class="p-v-10">
 <div class="info">
 <h5 class="test-status text-fail">Tests.RegisterationTest.NavigatetoWebSite</h5>
-<span class='badge badge-success'>01.21.2022 8:48:44 PM</span>
-<span class='badge badge-danger'>01.21.2022 8:48:44 PM</span>
-<span class='badge badge-default'>00:00:00:264</span>
+<span class='badge badge-success'>01.26.2022 11:38:01 PM</span>
+<span class='badge badge-danger'>01.26.2022 11:38:01 PM</span>
+<span class='badge badge-default'>00:00:00:251</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
 <span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
 <span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
@@ -223,21 +223,21 @@ infoEvents: 2
   <tbody>
       <tr class="event-row">
         <td><span class="badge log info-bg">Info</span></td>
-        <td>8:48:44 PM</td>
+        <td>11:38:01 PM</td>
         <td>
           An Exception Occured with this Message: Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "driver" is null.
         </td>
       </tr>
       <tr class="event-row">
         <td><span class="badge log info-bg">Info</span></td>
-        <td>8:48:44 PM</td>
+        <td>11:38:01 PM</td>
         <td>
           Browser Action [NavigateToURL] failed. With the following test data [http://automationpractice.com/index.php].
         </td>
       </tr>
       <tr class="event-row">
         <td><span class="badge log fail-bg">Fail</span></td>
-        <td>8:48:44 PM</td>
+        <td>11:38:01 PM</td>
         <td>
           <textarea readonly class="code-block">java.lang.AssertionError: Browser Action [NavigateToURL] failed. With the following test data [http://automationpractice.com/index.php].
 	at org.testng.Assert.fail(Assert.java:87)
@@ -248,7 +248,7 @@ infoEvents: 2
 	at com.shaft.gui.browser.BrowserActions.navigateToURL(BrowserActions.java:90)
 	at Pages.HighLevelFunctionsPage.navigate(HighLevelFunctionsPage.java:18)
 	at Pages.RegisterationPage.NavigatetoRegisterPage(RegisterationPage.java:45)
-	at Tests.RegisterationTest.NavigatetoWebSite(RegisterationTest.java:33)
+	at Tests.RegisterationTest.NavigatetoWebSite(RegisterationTest.java:29)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -296,7 +296,7 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.We
           <div class="test-detail">
             <p class="name">Tests.RegisterationTest.FillData</p>
             <p class="text-sm">
-              <span>8:48:46 PM</span> / <span>00:00:00:009</span>
+              <span>11:38:02 PM</span> / <span>00:00:00:004</span>
               <span class="badge skip-bg log float-right">Skip</span>
             </p>
           </div>
@@ -305,9 +305,9 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.We
 <div class="p-v-10">
 <div class="info">
 <h5 class="test-status text-skip">Tests.RegisterationTest.FillData</h5>
-<span class='badge badge-success'>01.21.2022 8:48:46 PM</span>
-<span class='badge badge-danger'>01.21.2022 8:48:46 PM</span>
-<span class='badge badge-default'>00:00:00:009</span>
+<span class='badge badge-success'>01.26.2022 11:38:02 PM</span>
+<span class='badge badge-danger'>01.26.2022 11:38:02 PM</span>
+<span class='badge badge-default'>00:00:00:004</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=2</span>
 <span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
 <span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
@@ -319,9 +319,9 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.We
   <tbody>
       <tr class="event-row">
         <td><span class="badge log skip-bg">Skip</span></td>
-        <td>8:48:46 PM</td>
+        <td>11:38:02 PM</td>
         <td>
-          <textarea readonly class="code-block">java.lang.Throwable: Method RegisterationTest.FillData()[pri:0, instance:Tests.RegisterationTest@2fdf7da2] depends on not successfully finished methods
+          <textarea readonly class="code-block">java.lang.Throwable: Method RegisterationTest.FillData()[pri:0, instance:Tests.RegisterationTest@51cca357] depends on not successfully finished methods
 	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:102)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
@@ -370,39 +370,6 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.We
 <li class="test-item">
 <div class="test-detail">
 <span class="meta">
-<span class='badge log badge-danger'>1</span>
-</span>
-<p class="name">java.lang.AssertionError</p>
-<p class="duration text-sm">1 tests</p>
-</div>
-<div class="test-contents d-none">
-<div class="info">
-<h4>java.lang.AssertionError</h4>
-<span status="fail" class='badge log badge-danger'>1 failed</span>
-</div>
-<table class='table table-sm mt-4'>
-<thead>
-<tr>
-<th class="status-col">Status</th>
-<th class="timestamp-col">Timestamp</th>
-<th>TestName</th>
-</tr>
-</thead>
-<tbody>
-<tr class="tag-test-status" status="fail">
-<td><span class="badge log fail-bg">Fail</span></td>
-<td>20:48:44 PM</td>
-<td>
-<a href="#" class="linked" test-id='1' id='1'>Tests.RegisterationTest.NavigatetoWebSite</a>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</li>
-<li class="test-item">
-<div class="test-detail">
-<span class="meta">
 <span class='badge log badge-skip'>1</span>
 </span>
 <p class="name">java.lang.Throwable</p>
@@ -424,9 +391,42 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.We
 <tbody>
 <tr class="tag-test-status" status="skip">
 <td><span class="badge log skip-bg">Skip</span></td>
-<td>20:48:46 PM</td>
+<td>23:38:02 PM</td>
 <td>
 <a href="#" class="linked" test-id='2' id='2'>Tests.RegisterationTest.FillData</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log badge-danger'>1</span>
+</span>
+<p class="name">java.lang.AssertionError</p>
+<p class="duration text-sm">1 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>java.lang.AssertionError</h4>
+<span status="fail" class='badge log badge-danger'>1 failed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>23:38:01 PM</td>
+<td>
+<a href="#" class="linked" test-id='1' id='1'>Tests.RegisterationTest.NavigatetoWebSite</a>
 </td>
 </tr>
 </tbody>

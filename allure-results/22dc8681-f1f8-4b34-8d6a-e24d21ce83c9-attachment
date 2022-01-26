@@ -5,7 +5,7 @@ com.shaft.gui.browser.WebDriverBrowserActions.navigateToURL(WebDriverBrowserActi
 com.shaft.gui.browser.BrowserActions.navigateToURL(BrowserActions.java:90)
 Pages.HighLevelFunctionsPage.navigate(HighLevelFunctionsPage.java:18)
 Pages.RegisterationPage.NavigatetoRegisterPage(RegisterationPage.java:45)
-Tests.RegisterationTest.NavigatetoWebSite(RegisterationTest.java:33)
+Tests.RegisterationTest.NavigatetoWebSite(RegisterationTest.java:29)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
 java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
